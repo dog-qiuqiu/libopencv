@@ -1,0 +1,1 @@
+arm-linux-gnueabi-g++ opencv_version.cpp -o opencv_version -I./include/ -L./lib/ -lopencv_world -llibprotobuf -llibjpeg-turbo -llibwebp -llibpng -llibtiff -llibopenjp2 -lzlib -littnotify -lquirc -lade -ldl -lm -lpthread -lrt
